@@ -33,7 +33,7 @@ Citations are also formatted for ``LaTeX`` documents using ``BibTex``. Tutorial 
 
 ### For visualizing and editing plain text files (code, etc.)
 
-[Sublime Text](https://www.sublimetext.com/) is a good and simple plain text editor. [VS Code](https://code.visualstudio.com/) is a more feature-rich integrated development environment. I [Carrie] use both for different purposes: Sublime for quickly looking at code, VS Code for compiling ``LaTeX`` projects locally, etc. Both are free, open source software. 
+[Sublime Text](https://www.sublimetext.com/) is a good and simple plain text editor. [VSCode](https://code.visualstudio.com/) is a more feature-rich integrated development environment. While both are great options, VSCode offers more features and won't pop open a window every few hours asking you to pay for an upgrade. 
 
 ## Data storage 
 
