@@ -2,7 +2,7 @@
 
 This document provides suggestions (not requirements) for software that facilitates the research we do. Please use the ``issues `` feature on GitHub to suggest changes to this document.
 
-Guiding principals: 
+Guiding principles: 
 
 - Software should be effective and make the work easier, not harder
 - Software should be as lightweight as possible (no unnecessary features or bloat)
