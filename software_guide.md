@@ -17,7 +17,7 @@ In general, the Tribble lab prefers to use Google-based tools such as Google Cal
 
 Citation managers help you keep track of papers or other sources. They often allow you to link a PDF of a paper with your own notes and export the citation for the paper in a variety of formats. PI Carrie is ashamed to admit that I use a plain text document instead of actual software (see the discussion about Latex, below), but my sleuthing had deduced that [Zotero](https://guides.lib.uw.edu/research/zotero) is a popular choice.
 
-For more background on citation managers, reach out the [UW Library](https://lib.uw.edu/about/contact/). Librarians are incredible, underutilized resources. Also check out a recorded workshop on citation managers available [here](http://www.lib.washington.edu/commons/services/workshops/citations?_gl=1*qpbden*_ga*NjEyODUxMjg2LjE3MjIxOTI0NTE.*_ga_63X2ZQHK8P*MTcyODE0MjU3Mi42LjEuMTcyODE0MzE0Ny4wLjAuMA..). 
+For more on citation managers, reach out the [UW Library](https://lib.uw.edu/about/contact/). Librarians are incredible, underutilized resources. Also check out a recorded workshop on citation managers available [here](http://www.lib.washington.edu/commons/services/workshops/citations?_gl=1*qpbden*_ga*NjEyODUxMjg2LjE3MjIxOTI0NTE.*_ga_63X2ZQHK8P*MTcyODE0MjU3Mi42LjEuMTcyODE0MzE0Ny4wLjAuMA..). 
 
 ## Text processing 
 
@@ -25,7 +25,7 @@ For more background on citation managers, reach out the [UW Library](https://lib
 
 Microsoft Word (available through UW [here](https://itconnect.uw.edu/uware/microsoft-office-for-desktop/)) is a classic option for writing anything from your grocery list to a scientific article. However, cloud-based tools like [Google Docs](docs.google.com) make collaborative writing easier. 
 
-``LaTeX`` is a software system for typesetting documents and is an alternative to programs like Word or Google Docs. ``LaTeX`` works similarly to a coding language, where users specify all aspects of formating (such as italics, text size, figure placement, citations, mathematical equations) with code. The feel of writing in ``Latex`` can take a bit of getting used to (somewhat similar to using HTML or Markdown), but it hugely improves the user's ability to control formatting in the document (no more fighting with Word about whether that figure should go on page 2 or 3) and is, I would argue, necessary for writing papers with mathematical notation. 
+``LaTeX`` is a software system for typesetting documents and is an alternative to programs like Word or Google Docs. ``LaTeX`` works similarly to a coding language, where users specify all aspects of formating (such as italics, text size, figure placement, citations, mathematical equations) with code. The feel of writing in ``Latex`` can take a bit of getting used to (similar to using HTML or Markdown), but it hugely improves the user's ability to control formatting in the document and is almost necessary for writing papers with mathematical notation. 
 
 ``LaTeX`` has a steep learning curve but is the preferred text processing software for writing papers in the lab. There is a web-based interface for ``LaTeX`` called [Overleaf](https://www.overleaf.com/) that greatly improves collabration on ``LaTeX`` documents. Overleaf also provides a nice introductory [tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) for new users. Overleaf is available for free, but UW also provides access to a [Professional Upgrade](https://admin.artsci.washington.edu/computing/overleaf-latex-editor-professional-upgrade).
 
