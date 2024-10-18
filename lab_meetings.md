@@ -20,7 +20,7 @@ Optional additional reading:
 ## October 29, 2024
 TBD
 ## November 5, 2024 [Tribble Zoom] 
-Jens guest zoom [tenative]
+Guest zoom: [Jens Martin Cutrim Knauf](https://www.researchgate.net/profile/Jens-Martin-Cutrim-Knauf) on _Alstroemeria_ in Brazil.
 ## November 12, 2024
 TBD
 ## November 19, 2024 [Tribble out] 
