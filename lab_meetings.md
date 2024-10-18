@@ -18,15 +18,17 @@ Discuss early angiosperm evolution. Please read the following paper prior to lab
 Optional additional reading:
 - [Coiro, Mario, James A. Doyle, and Jason Hilton. "How deep is the conflict between molecular and fossil evidence on the age of angiosperms?." New Phytologist 223.1 (2019): 83-99.](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15708)
 ## October 29, 2024
-TBD
+Updates! 
 ## November 5, 2024 [Tribble Zoom] 
 Guest zoom: [Jens Martin Cutrim Knauf](https://www.researchgate.net/profile/Jens-Martin-Cutrim-Knauf) on _Alstroemeria_ in Brazil.
 ## November 12, 2024
-TBD
+Updates! 
 ## November 19, 2024 [Tribble out] 
+GitHub workshop? 
 ## November 26, 2024
-TBD
+Paper discussion
 ## December 3, 2024
-TBD
+Updates!
 ## December 10, 2024
-TBD
+Paper discussion
+
