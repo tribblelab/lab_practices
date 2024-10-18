@@ -12,7 +12,7 @@ Please review the following items before lab meeting:
 ## October 14, 2024 [rescheduled to Monday]
 Continue conversation from Oct. 8
 ## October 22, 2024
-Discuss early angiosperm evolution. Please read the following paper prior to labmeeting: 
+Discuss early angiosperm evolution. Please read the following paper prior to lab meeting: 
 - [Crepet, William L. "Progress in understanding angiosperm history, success, and relationships: Darwin's abominably “perplexing phenomenon”." Proceedings of the National Academy of Sciences 97.24 (2000): 12939-12941.](https://www.pnas.org/doi/pdf/10.1073/pnas.97.24.12939)
   
 Optional additional reading:
