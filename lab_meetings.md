@@ -12,7 +12,11 @@ Please review the following items before lab meeting:
 ## October 14, 2024 [rescheduled to Monday]
 Continue conversation from Oct. 8
 ## October 22, 2024
-TBD
+Discuss early angiosperm evolution. Please read the following paper prior to labmeeting: 
+- [Crepet, William L. "Progress in understanding angiosperm history, success, and relationships: Darwin's abominably “perplexing phenomenon”." Proceedings of the National Academy of Sciences 97.24 (2000): 12939-12941.](https://www.pnas.org/doi/pdf/10.1073/pnas.97.24.12939)
+  
+Optional additional reading:
+- [Coiro, Mario, James A. Doyle, and Jason Hilton. "How deep is the conflict between molecular and fossil evidence on the age of angiosperms?." New Phytologist 223.1 (2019): 83-99.](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15708)
 ## October 29, 2024
 TBD
 ## November 5, 2024 [Tribble Zoom] 
