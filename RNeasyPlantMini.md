@@ -4,6 +4,8 @@ This has been modified from the PDF protocol provided by Qiagen. Check the [PDF 
 
 This protocol requires the RNeasy Plant Mini Kit.
 
+<img src="images/rneasy_kit_contents.png" alt="Kit Contents" width="500">
+
 ## Determining the correct amount of starting material
 
 It is essential to use the correct amount of starting material in order to obtain optimal RNA yield and purity. A maximum amount of 100 mg plant material or 1 x 10^7 cells can generally be processed. For most plant materials, the RNA binding capacity of the RNeasy spin column and the lysing capacity of Buffer RLT will not be exceeded by these amounts. Average RNA yields from various plant materials are given in Table 2 (page 20).
@@ -29,7 +31,7 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
 - If performing optional on-column DNase digestion, prepare DNase I stock solution as described in Appendix D (page 84).
 
 ## Procedure
-
+<img src="images/rneasy_protocol_steps.png" alt="protocol_steps" width="500">
 1. Determine the amount of plant material. Do not use more than 100 mg. Weighing tissue is the most accurate way to determine the amount.
 2. Immediately place the weighed tissue in liquid nitrogen, and grind thoroughly with a mortar and pestle. Decant tissue powder and liquid nitrogen into an RNAse-free, liquid-nitrogen–cooled, 2 ml microcentrifuge tube (not supplied). Allow the liquid nitrogen to evaporate, but do not allow the tissue to thaw. Proceed immediately to step 3.
 
