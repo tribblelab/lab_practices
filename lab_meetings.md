@@ -22,7 +22,7 @@ Updates!
 ## November 5, 2024 [Tribble Zoom] 
 Guest zoom: [Jens Martin Cutrim Knauf](https://www.researchgate.net/profile/Jens-Martin-Cutrim-Knauf) on _Alstroemeria_ in Brazil.
 ## November 12, 2024
-Emily leads discussion on science writing. 
+Emily leads discussion on science writing. Please read the following article prior to lab meeting: [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 ## November 19, 2024 [Tribble out] 
 GitHub workshop? 
 ## November 26, 2024
