@@ -37,7 +37,7 @@ Citations are also formatted for ``LaTeX`` documents using ``BibTex``. Tutorial 
 
 ## Data storage 
 
-TBD!!! Sometime we will figure out our plan for storing large datafiles that are too big to fit on personal computers. Probably Box and the [UW Hyak system](https://hyak.uw.edu/docs/storage/data/).
+Data should be stored on the lab network-attached storage (NAS) device. Data used in publications should be made available on Zenodo and linked to the lab's [Zenodo organization](https://zenodo.org/communities/tribblelab/). Unprocessed sequence data should be made available on NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) or [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) as appropriate, and processed data should be included in Zenodo. 
 
 ## Computer backups 
 
