@@ -30,5 +30,5 @@ Paper discussion
 ## December 3, 2024
 Updates!
 ## December 10, 2024
-Paper discussion
+Guest presentation by Philippa Stone (PhD student at UBC) on *Triantha*
 
