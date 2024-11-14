@@ -23,8 +23,14 @@ Updates!
 Guest zoom: [Jens Martin Cutrim Knauf](https://www.researchgate.net/profile/Jens-Martin-Cutrim-Knauf) on _Alstroemeria_ in Brazil.
 ## November 12, 2024
 Emily leads discussion on science writing. Please read the following article prior to lab meeting: [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
-## November 19, 2024 [Tribble out] 
-GitHub workshop? 
+## November 19, 2024
+**GitHub and data organization workshop**. 
+
+For lab meeting we will be going over some data organization and coding best practices, so please be sure to bring your computers. Before lab meeting:
+- download [VSCode](https://code.visualstudio.com/) 
+- read over the [shell novice lesson](https://swcarpentry.github.io/shell-novice/) from Software Carpentries (if you have a PC be sure you have a bash shell [installed](https://carpentries.github.io/workshop-template/install_instructions/#shell) on your computer)
+- [install](https://swcarpentry.github.io/git-novice/#installing-git) Git on your computer 
+
 ## November 26, 2024
 Paper discussion
 ## December 3, 2024
