@@ -32,9 +32,9 @@ For lab meeting we will be going over some data organization and coding best pra
 - [install](https://swcarpentry.github.io/git-novice/#installing-git) Git on your computer 
 
 ## November 26, 2024
-Paper discussion
+Updates
 ## December 3, 2024
-Updates!
+Paper discussion
 ## December 10, 2024
 Guest presentation by Philippa Stone (PhD student at UBC) on *Triantha*
 
