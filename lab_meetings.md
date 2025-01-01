@@ -1,9 +1,35 @@
-# Lab meeting agenda: Autumn 2024
-## General lab meeting information
+
+# General lab meeting information
 All members of the lab are encouraged to attend lab meetings, including undergraduate student researchers and lab affiliates.
 Each academic year we will start lab meetings with a review of lab practices and provide opportunities for feedback on these practices. 
 Other lab meetings rotate between individual updates (plan on roughly 5 minutes of content on what you've been working on) and focused topics such as paper discussions, practice talks, etc.
-**This quarter, lab meetings are held on Tuesdays at 12pm in LSB 302.** Participants are encouraged to bring their lunches. 
+
+## Lab meeting agenda: Winter 2025
+
+## January 7, 2025
+TBD
+## January 14, 2025
+TBD
+## January 21, 2025
+TBD
+## January 28, 2025
+TBD
+## February 4, 2025
+TBD
+## February 11, 2025
+TBD
+## February 18, 2025
+TBD
+## February 25, 2025
+TBD
+## March 4, 2025
+TBD
+## March 11, 2025
+TBD
+
+**This quarter, lab meetings are held on Tuesdays at 10am in LSB 301.** 
+
+## Lab meeting agenda: Autumn 2024
 
 ## October 8, 2024: introduction & lab policies
 Please review the following items before lab meeting: 
