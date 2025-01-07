@@ -7,7 +7,7 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 ## Lab meeting agenda: Winter 2025
 
 ## January 7, 2025
-TBD
+Logistics and quarter planning
 ## January 14, 2025
 TBD
 ## January 21, 2025
