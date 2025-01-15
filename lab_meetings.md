@@ -9,23 +9,23 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 ## January 7, 2025
 Logistics and quarter planning
 ## January 14, 2025
-TBD
+Parallel and convergent evolution
 ## January 21, 2025
-TBD
+RStudio and Git tutorial---PI out 
 ## January 28, 2025
-TBD
+RStudio and Git tutorial---PI out 
 ## February 4, 2025
-TBD
+Visit?
 ## February 11, 2025
-TBD
+Updates
 ## February 18, 2025
 TBD
 ## February 25, 2025
-TBD
+Updates
 ## March 4, 2025
 TBD
 ## March 11, 2025
-TBD
+Updates
 
 **This quarter, lab meetings are held on Tuesdays at 10am in LSB 301.** 
 
