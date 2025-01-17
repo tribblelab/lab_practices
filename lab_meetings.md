@@ -15,17 +15,17 @@ RStudio and Git tutorial---PI out
 ## January 28, 2025
 RStudio and Git tutorial---PI out 
 ## February 4, 2025
-Visit?
+Triantha (visiting researcher from UBC)
 ## February 11, 2025
-Updates
+Emily paper feedback
 ## February 18, 2025
-TBD
+Updates
 ## February 25, 2025
-Updates
-## March 4, 2025
 TBD
-## March 11, 2025
+## March 4, 2025
 Updates
+## March 11, 2025
+TBD
 
 **This quarter, lab meetings are held on Tuesdays at 10am in LSB 301.** 
 
