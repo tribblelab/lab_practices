@@ -21,13 +21,13 @@ Emily paper feedback
 ## February 18, 2025
 Updates
 ## February 25, 2025
-TBD
+Cancelled
 ## March 4, 2025
 Updates
 ## March 11, 2025
-TBD
+Paper discussion: [link here](https://www.nature.com/articles/s41598-019-40050-6)
 
-**This quarter, lab meetings are held on Tuesdays at 10am in LSB 301.** 
+**This quarter, lab meetings are held on Tuesdays at 12:30pm in LSB 201.** 
 
 ## Lab meeting agenda: Autumn 2024
 
