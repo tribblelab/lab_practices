@@ -4,6 +4,22 @@ All members of the lab are encouraged to attend lab meetings, including undergra
 Each academic year we will start lab meetings with a review of lab practices and provide opportunities for feedback on these practices. 
 Other lab meetings rotate between individual updates (plan on roughly 5 minutes of content on what you've been working on) and focused topics such as paper discussions, practice talks, etc.
 
+## Lab meeting agenda: Spring 2025
+Fridays 10:00 am -- 11:00 am in LSB 301
+
+## April 4, 2025
+Andean Puya! https://onlinelibrary.wiley.com/doi/10.1111/jse.13062
+## April 11, 2025
+## April 18, 2025
+## April 25, 2025
+## May 2, 2025
+## May 9, 2025
+## May 16, 2025
+## May 23, 2025
+## May 30, 2025
+## June 6, 2025
+## June 13, 2025
+
 ## Lab meeting agenda: Winter 2025
 
 ## January 7, 2025
