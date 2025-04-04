@@ -10,15 +10,23 @@ Fridays 10:00 am -- 11:00 am in LSB 301
 ## April 4, 2025
 Andean Puya! https://onlinelibrary.wiley.com/doi/10.1111/jse.13062
 ## April 11, 2025
+Emily chalk talk practice
 ## April 18, 2025
+Dick presents on phylogenetic classification 
 ## April 25, 2025
+Updates!
 ## May 2, 2025
+Hayden and Peter undergrad research symposium feedback
 ## May 9, 2025
+Peter presents a paper! 
 ## May 16, 2025
+[Undergrad research symposium---lab meeting cancelled]
 ## May 23, 2025
+Updates
 ## May 30, 2025
+TBD
 ## June 6, 2025
-## June 13, 2025
+TBD
 
 ## Lab meeting agenda: Winter 2025
 
