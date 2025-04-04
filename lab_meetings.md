@@ -24,7 +24,7 @@ Peter presents a paper!
 ## May 23, 2025
 Updates
 ## May 30, 2025
-TBD
+Phlegmeriurus bonanza: PPG discussion, Wes' paper, and taxonomic background reading.
 ## June 6, 2025
 TBD
 
