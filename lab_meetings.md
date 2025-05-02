@@ -22,11 +22,11 @@ Peter presents a paper!
 ## May 16, 2025
 [Undergrad research symposium---lab meeting cancelled]
 ## May 23, 2025
-Updates
+Climate modeling paper proposal & Emily poster feedback
 ## May 30, 2025
-Phlegmeriurus bonanza: PPG discussion, Wes' paper, and taxonomic background reading.
+[No lab meeting---course collecting trip]
 ## June 6, 2025
-TBD
+Phlegmeriurus bonanza: PPG discussion, Wes' paper, and taxonomic background reading.
 
 ## Lab meeting agenda: Winter 2025
 
