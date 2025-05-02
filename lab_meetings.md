@@ -18,7 +18,7 @@ Updates!
 ## May 2, 2025
 Hayden and Peter undergrad research symposium feedback
 ## May 9, 2025
-Peter presents a paper! 
+Updates! 
 ## May 16, 2025
 [Undergrad research symposium---lab meeting cancelled]
 ## May 23, 2025
