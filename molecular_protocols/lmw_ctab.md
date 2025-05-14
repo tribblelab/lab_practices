@@ -6,9 +6,8 @@
 **Note from David**:  
 This protocol describes 4 DIFFERENT ways to perform a CTAB extraction, using 1 of 4 four possible lysis buffers listed below. The original publication provides recommendations on when to use which buffer given the secondary metabolite/polysaccharide content of your material.
 
-The TLDR for recommendations is as follows: CTAB and CTAB + PVP extractions before nearly identically, with CTAB + PVP producing slightly higher DNA concentrations and less secondary metabolites. For a test run of an extraction I would use plain CTAB, and then CTAB + PVP for 
-anything I want to sequence. CTAB + SDS seemed to produce lower quality + quantity of DNA but performed well when polysaccharide content was high, if this matches your expectations, I would use this variant. Lastly, CTAB + sorbital generated lower quality + quantity of DNA 
-but longer fragment lengths, if your goal is long-read sequencing I would consider this variant, but also check out protocols for high molecular weight (HMW) extractions as those can get your fragments lengths an order of magnitude larger (10-70kbp vs ~3kbp).
+The TLDR for recommendations is as follows: CTAB and CTAB + PVP extractions before nearly identically, with CTAB + PVP producing slightly higher DNA concentrations and less secondary metabolites. For a test run of an extraction I would use plain CTAB, and then CTAB + PVP for anything I want to sequence. CTAB + SDS seemed to produce lower quality + quantity of DNA but performed well when polysaccharide content was high, if this matches your expectations, I would use this variant. Lastly, CTAB + sorbital generated lower quality + quantity of DNA but longer fragment lengths, if your goal is long-read sequencing I would consider this variant, but also check out protocols for high molecular weight (HMW) extractions as those can get your fragments lengths an order of magnitude larger (10-70kbp vs ~3kbp).
+
 ---
 
 ## Appendix S2: Protocol for optimizing the lysis step in CTAB DNA extractions of silica-dried and herbarium leaf tissues.
