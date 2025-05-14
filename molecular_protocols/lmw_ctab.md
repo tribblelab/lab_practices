@@ -89,7 +89,6 @@ Combine
 2. Spin samples in centrifuge at 4°C for 20 min at 13,000 (3700 for plate spinners) rpm with the hinge of the tube's lid toward the outside to know where the DNA pellet will concentrate (see images below). After centrifuging, place the tubes in a cold block to keep the pellet frozen.
 3.	Pipette off ethanol into a beaker, being careful not to dislodge the DNA pellet that is located toward the hinge-side of the bottom of the tube (you may or may not be able to see the pellet). Add 500 μL of –20°C 75% ethanol (stored in the –20°C freezer), and spin at 13,000 rpm for 5 min at 4°C. Start heating the CentriVap centrifuge on the standby mode set to 65°C for Step 6 below.
 4.	Repeat Step 4 for a second wash, then proceed to Step 6. 
-
 5.	Dry off as much ethanol as possible. You may either use the drying oven set to 60C, checking at 15minute intervals, or you can leave the tubes out overnight on the lab bench. Either way, leave tubes slightly ajar so that evaporating ethanol may escape. Do not overdry the pellets; they should not turn white, but you should not see or smell ethanol. 
 
 #### 6. Elution and quantification
