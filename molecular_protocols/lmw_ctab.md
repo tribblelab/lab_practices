@@ -1,4 +1,4 @@
-# High Molecular Weight (HMW) CTAB Extraction for FERNS
+# Low Molecular Weight (LMW) CTAB Extraction
 
 **Source**: Xie et al., 2023  
 **DOI**: [https://doi.org/10.1002/aps3.11526](https://doi.org/10.1002/aps3.11526)
