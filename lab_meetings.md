@@ -26,7 +26,7 @@ Climate modeling paper proposal & Emily poster feedback
 ## May 30, 2025
 [No lab meeting---course collecting trip]
 ## June 6, 2025
-Phlegmeriurus bonanza: PPG discussion, Wes' paper, and taxonomic background reading.
+Phlegmeriurus bonanza: [PPG discussion](https://github.com/pteridogroup/ppg/issues/75), [Wes' paper](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15544), and [taxonomic background reading](https://www.sciencedirect.com/science/article/pii/S1055790315003000?via%3Dihub).
 
 ## Lab meeting agenda: Winter 2025
 
