@@ -1,4 +1,4 @@
-# Instructions for macs
+# Connecting instructions for macs
 
 1. Open a finder window
 2. Press ⌘+k
