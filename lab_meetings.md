@@ -13,12 +13,12 @@ Agenda: Intros, catch up
 Snacks: NA
 
 ## October 6, 2025
-Agenda: Quarter planning/ project management
+Agenda: Quarter planning/ project management. 
 
 Snacks: Carrie 
 
 ## October 13, 2025
-Agenda: Updates
+Agenda: Updates 
 
 Snacks: Carrie
 
@@ -28,7 +28,7 @@ Agenda: Chiara TBD
 Snacks: Hayden
 
 ## October 27, 2025
-Agenda: Updates
+Agenda: Review the lab mentorship compact, updates
 
 Snacks: CMT
 
