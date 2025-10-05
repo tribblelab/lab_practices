@@ -9,34 +9,54 @@ Mondays 9:00 am -- 10:00 am in LSB 301
 
 ## September 29, 2025
 Agenda: Intros, catch up 
+
 Snacks: NA
+
 ## October 6, 2025
 Agenda: Quarter planning/ project management
+
 Snacks: Carrie 
+
 ## October 13, 2025
 Agenda: Updates
+
 Snacks: Carrie
+
 ## October 20, 2025
 Agenda: Chiara TBD
+
 Snacks: Hayden
+
 ## October 27, 2025
 Agenda: Updates
+
 Snacks: CMT
+
 ## November 3, 2025
 Agenda: Emily TBD
+
 Snacks: Elizabeth
+
 ## November 10, 2025
 Agenda: Updates
+
 Snacks: Carrie
+
 ## November 17, 2025
 Agenda: Hybridization (Makoa)
+
 Snacks: Makoa
+
 ## November 24, 2025
 Agenda: Updates
+
 Snacks: Carrie 
+
 ## December 1, 2025
 Agenda: Fanya TBD
+
 Snacks: Fanya
+
 ## December 8, 2025
 TBD (finals week)
 
