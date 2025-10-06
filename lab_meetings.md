@@ -28,7 +28,7 @@ Agenda: Chiara TBD
 Snacks: Hayden
 
 ## October 27, 2025
-Agenda: Review the lab mentorship compact, updates
+Agenda: Review the [lab mentorship compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship_compact.md), updates
 
 Snacks: CMT
 
