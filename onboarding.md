@@ -44,7 +44,7 @@ This checklist outlines the steps to complete as part of your onboarding process
 
 ---
 
-## Molecular Lab Safety Trainings
+## Molecular Lab Access
 
 Complete the following **required safety trainings** before working in the wet lab:
 
@@ -54,6 +54,8 @@ Complete the following **required safety trainings** before working in the wet l
 - [ ] [Fume Hood Training](https://www.ehs.washington.edu/training/fume-hood-training-online)
 
 Once all trainings are complete, record your completion in the [Safety Trainings Spreadsheet](https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1BtiMnVqTWQKF9rYF_aulB1vvZxq-NE3c0_LEdKh-x2Y/edit?usp=sharing__;!!K-Hz7m0Vt54!k9WFPTDmiu90a9z_AUDf5tvNnpFIb9Iyq8R-SBdWregKi-PGcVRdTUHOIku3QubhW2XEZ80WrmNn55lFY6pKVaYtv4g$).
+
+Before beginning any procedure, review the appropriate protocol in the [molecular_protocols section of the lab_practices repository](https://github.com/tribblelab/lab_practices/tree/main/molecular_protocols). If your procedure does not have a protocol in this repository, make one. Then, review the relevant SDS sheets and SOPs in the [wet_lab directory](https://drive.google.com/drive/folders/1J7hvO_3rrFGMuC97lV8Th66K7FN8YiBe?usp=drive_link) on the lab shared Google Drive. For new protocols, be sure to add any new SDS sheets and/or SOPs. 
 
 ---
 
