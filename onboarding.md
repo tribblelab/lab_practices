@@ -15,8 +15,10 @@ This checklist outlines the steps to complete as part of your onboarding process
   The PI will provide desk space for employees and graduate students in LSB Pod 4 west. Undergraduate students may use flex desk space or other communal seating. Please ask if you don't know where to work. 
 
 - [ ] **Burke Museum access**  
-  The PI will provide Burke access if needed (note that this does not include access to the herbarium).
-
+  The PI will provide Burke access if needed (note that this does not include access to the herbarium)
+  - CAAMS access [form](https://forms.office.com/r/KL1cTkRvV2)
+  - grad_pd [email list](https://mailman22.u.washington.edu/mailman/listinfo/burke_gradPD)
+  
 ---
 
 ## Lab Policies and Mentorship
