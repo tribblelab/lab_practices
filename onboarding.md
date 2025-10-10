@@ -39,6 +39,8 @@ This checklist outlines the steps to complete as part of your onboarding process
   - Lab GitHub [organization](https://github.com/tribblelab)  
   - [lilNASx](https://github.com/tribblelab/lab_practices/blob/main/server_info.md)  
   - [HYAK](https://hyak.uw.edu/docs/)
+    - PI will add you to the lab group following [these instructions](https://hyak.uw.edu/docs/join-group)
+    - You should watch the short [how-to introductory videos](https://hyak.uw.edu/learn) prior to using HYAK
   - Shared lab computers
 
 - [ ] **Add your contact information** to the [contact_info](https://github.com/tribblelab/internal/blob/main/contact_info.md) document on GitHub. To edit this document, click the pencil/ edit icon at the upper right corner and see [this guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) for writing in markdown format. Note that this document lives in a private repository only visible to other lab members. We will only use cell phone information as outlined in the [mentorship_compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship_compact.md) and [mentor_mentee_dyad](https://github.com/tribblelab/lab_practices/blob/main/mentor_mentee_dyad.md) documents.
