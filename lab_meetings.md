@@ -23,7 +23,7 @@ Agenda: Updates
 Snacks: Carrie
 
 ## October 20, 2025
-Agenda: Chiara TBD
+Agenda: How to write a research paper :D
 
 Snacks: Hayden
 
