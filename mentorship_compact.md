@@ -82,7 +82,7 @@ Outside of regular meetings, the PI recommends the following for in-person commu
   - If there is an emergency^* do whatever you need to do to get ahold of the PI (knock on a closed/ latched door, call cell phone, etc.) 
 ^* Emergencies include you or anyone you know experiencing a mental health crises, any type of physical injury or emergency, fires, freezers failing, etc.
 
-The lab uses Slack and email to communicate. See the [lab software guide](software_guide.md) for more. There is a [lab listserv](tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). 
+The lab uses Slack and email to communicate. See the [lab software guide](software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). 
 ***** add a private doc with all contact info for lab memebers ***** 
 
 ### Lab Data
