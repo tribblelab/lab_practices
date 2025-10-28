@@ -33,7 +33,7 @@ Agenda: Review the [lab mentorship compact](https://github.com/tribblelab/lab_pr
 Snacks: Carrie
 
 ## November 3, 2025
-Agenda: Emily TBD
+Agenda: Paper discussion: [Range-wide intraspecific variation reflects past adaptation to climate in a gypsophile Mediterranean shrub](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14322)
 
 Snacks: Elizabeth
 
