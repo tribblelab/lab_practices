@@ -28,7 +28,7 @@ Agenda: How to write a research paper :D
 Snacks: Hayden
 
 ## October 27, 2025
-Agenda: Review the [lab mentorship compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship_compact.md), updates
+Agenda: updates
 
 Snacks: Carrie
 
@@ -38,7 +38,7 @@ Agenda: Paper discussion: [Range-wide intraspecific variation reflects past adap
 Snacks: Elizabeth
 
 ## November 10, 2025
-Agenda: Updates
+Agenda: Review the [lab mentorship compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship_compact.md)
 
 Snacks: Carrie
 
