@@ -69,12 +69,12 @@ The lab meeting agenda lives on [GitHub](lab_meetings.md). The agenda is set at 
 All lab social events are optional, but at least occasional participation is encouraged. If long-term lab members stop attending any social events, the PI may take this as a red flag about lab dynamics and initiate a conversation. Lab social events are planned by the lab social committee (committee members volunteer at the beginning of the academic year) and the the PI. The social committee will plan a diversity of activities. No activities will be oriented around alcohol consumption, but alcohol may be an option at some events. The PI will cover some meals as part of social activities. All social event announcements will be explicit about any costs for attending. 
 
 ### Communication and individual meetings 
-All lab members are expected to meet weekly or biweekly with their mentor. These meetings should be scheduled a set time at the beginning of each quarter. In the case of undergraduate students working with a graduate student mentor, the student should meet once with the PI. 
-For meetings with the PI, Google Calendar is the preferred way to communicate individual meeting topics (you can add a note to the event and update it every week, but you must be the 'owner' of the event to do this).
+All lab members are expected to meet weekly or biweekly with their mentor. These meetings should be scheduled a set time at the beginning of each quarter. In the case of undergraduate students working with a mentor who is not the PI (*e.g.* a graduate student, postdoc, etc.), the student should meet once with the PI when getting started, and then as needed moving forward. 
+For individual meetings with the PI, Google Calendar is the preferred way to communicate agenda items (you can add a note to the event and update it every week, but you must be the 'owner' of the event to do this).
 The mentee should set the topic of the meeting and let the mentor know at least 48 hours in advance, or a week in advance for more intensive conversations (*e.g.* reviewing drafts). The mentor should take notes during the meetings and ensure those notes are shared with the mentee. Google Docs is a good option for this. 
 If you need to reschedule a meeting, you can propose a new time using the Google calendar event, adding a note with an explanation and your general availability. 
 
-One-off meetings with the PI can be scheduled using the [appointment scheduler](https://calendar.app.google/WFPrTpxBanuEGk8F9).
+One-off meetings with the PI can be scheduled using Calendly. Contact the PI for the link to this app.
 
 Outside of regular meetings, the PI recommends the following for in-person communication: 
   - If office door is open: feel free to come in and ask a quick question (but longer conversations may need to be scheduled)
