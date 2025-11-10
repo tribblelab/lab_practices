@@ -54,11 +54,9 @@ Snacks: Carrie
 
 ## December 1, 2025
 Agenda: Fanya TBD
-
+Note: Carrie will Zoom in 
 Snacks: Fanya
 
-## December 8, 2025
-TBD (finals week)
 
 
 ## Lab meeting agenda: Spring 2025
