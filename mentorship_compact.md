@@ -35,7 +35,7 @@ You will identify a research project within those guidelines. Undergraduate stud
 
 The PI determines whether a potential project is appropriate by evaluating three criteria:
 - Is the project feasible given the available resources (include avaiable expertise in the lab and through collaborations)?
-- Is the PI excited about the scientific question posed by the project? This ensures long-term investment in the research?
+- Is the PI excited about the scientific question posed by the project? This ensures long-term investment in the research.
 - Is the PhD student motivated to drive the project forward, and does the project server the PhD student's long term career goals?
 
 In addition to conducting scientific studies as described above, a secondary goal of the research program is for trainees to gain transferable skills. For example:
