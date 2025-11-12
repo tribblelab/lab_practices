@@ -70,9 +70,9 @@ All lab social events are optional, but at least occasional participation is enc
 
 ### Communication and individual meetings 
 All lab members are expected to meet weekly or biweekly with their mentor. These meetings should be scheduled a set time at the beginning of each quarter. In the case of undergraduate students working with a mentor who is not the PI (*e.g.* a graduate student, postdoc, etc.), the student should meet once with the PI when getting started, and then as needed moving forward. 
-For individual meetings with the PI, Google Calendar is the preferred way to communicate agenda items (you can add a note to the event and update it every week, but you must be the 'owner' of the event to do this).
+For individual meetings with the PI, the mentee should give the PI a heads up via Slack or email 2--3 days prior to meeting with any big-picture agenda items. This is particularly important for anything the PI should give some thought to before the meeting (_i.e._ existential research crises, "what is the future of academia", etc.). This is not necessary for most meetings topics, only the big, unusual ones.
 The mentee should set the topic of the meeting and let the mentor know at least 48 hours in advance, or a week in advance for more intensive conversations (*e.g.* reviewing drafts). The mentor should take notes during the meetings and ensure those notes are shared with the mentee. Google Docs is a good option for this. 
-If you need to reschedule a meeting, you can propose a new time using the Google calendar event, adding a note with an explanation and your general availability. 
+If you need to reschedule a meeting, you can propose a new time using the Google calendar event, adding a note with an explanation and your general availability, or via my Calendly app (link in our internal repo).
 
 One-off meetings with the PI can be scheduled using Calendly. Contact the PI for the link to this app.
 
@@ -91,7 +91,7 @@ Lab data are stored on a network-attached storage (NAS) device (the lab server) 
 
 All lab members conducting research in the lab should ensure that any work is backed up (drafts of writing, figures, etc.) even if that work doesn't live on the lab server. One option to set up a backup system for your whole computer, via a cloud service or an external hard drive. Another option is to do all work on cloud/ collaborative software. 
 
-All code should be stored on GitHub in repositories affiliated with the lab [GitHub organization](https://github.com/tribblelab/). 
+All code should be stored on GitHub in repositories affiliated with the lab [GitHub organization](https://github.com/tribblelab/). Code shoudl be documented and readable, as this will serve your future self and others who attempt to use your code. Coming soon: **code documentation SOP**. 
 
 The person who generates the data/ code is responsible for storing it on the lab server/ GitHub and sufficiently documenting it for future users. We recommend that you set up data management and documentation practices as you are collecting the data, instead of at the end. 
 
