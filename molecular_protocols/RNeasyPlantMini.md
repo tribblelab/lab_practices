@@ -49,13 +49,13 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
    
    **Note:** The volume of lysate may be less than 450 μl due to loss during homogenization. Precipitates may be visible after addition of ethanol. This does not affect the procedure.
 
-6. Transfer the sample (usually 650 μl), including any precipitate that may have formed, to an RNeasy spin column (pink) placed in a 2 ml collection tube (supplied). Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard the flow-through.
+6. Transfer the sample (usually 650 μl), including any precipitate that may have formed, to an RNeasy spin column (pink) placed in a 2 ml collection tube (supplied). Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard the flow-through into the waste container in the satalite accumulation area.
    
-   **Reuse the collection tube in step 7.** If the sample volume exceeds 700 μl, centrifuge successive aliquots in the same RNeasy spin column. Discard the flow-through after each centrifugation.
+   **Reuse the collection tube in step 7.** If the sample volume exceeds 700 μl, centrifuge successive aliquots in the same RNeasy spin column. Discard the flow-through into the sink after each centrifugation.
    
    **Optional:** If performing optional on-column DNase digestion (see [“Eliminating genomic DNA contamination”](https://www.qiagen.com/de/resources/download.aspx?id=f646813a-efbb-4672-9ae3-e665b3045b2b&lang=en), page 26), follow Appendix D (page 84), steps 1–4, after performing this step.
 
-7. Add 700 μl Buffer RW1 to the RNeasy spin column. Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm) to wash the spin column membrane. Discard the flow-through. *Reuse the collection tube in step 8.*
+7. Add 700 μl Buffer RW1 to the RNeasy spin column. Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm) to wash the spin column membrane. Discard the flow-through into the sink. *Reuse the collection tube in step 8.*
 
    **Note:** After centrifugation, carefully remove the RNeasy spin column from the collection tube so that the column does not contact the flow-through. Be sure to empty the collection tube completely.
 
@@ -63,7 +63,7 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
 
    *Flow-through contains Buffer RLT, Buffer RLC, or Buffer RW1 and is therefore not compatible with bleach. See [page 6](https://www.qiagen.com/de/resources/download.aspx?id=f646813a-efbb-4672-9ae3-e665b3045b2b&lang=en) for safety information.*
 
-8. Add 500 μl Buffer RPE to the RNeasy spin column. Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm) to wash the spin column membrane. Discard the flow-through. *Reuse the collection tube in step 9.*
+8. Add 500 μl Buffer RPE to the RNeasy spin column. Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm) to wash the spin column membrane. Discard the flow-through into the sink. *Reuse the collection tube in step 9.*
 
    **Note:** Buffer RPE is supplied as a concentrate. Ensure that ethanol is added to Buffer RPE before use (see [“Things to do before starting”](https://www.qiagen.com/de/resources/download.aspx?id=f646813a-efbb-4672-9ae3-e665b3045b2b&lang=en)).
 
@@ -73,7 +73,7 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
 
    **Note:** After centrifugation, carefully remove the RNeasy spin column from the collection tube so that the column does not contact the flow-through. Otherwise, carryover of ethanol will occur.
 
-10. *Optional:* Place the RNeasy spin column in a new 2 ml collection tube (supplied), and discard the old collection tube with the flow-through. Close the lid gently, and centrifuge at full speed for 1 min.
+10. *Optional:* Place the RNeasy spin column in a new 2 ml collection tube (supplied), and discard the old collection tube and put the flow-through into the sink. Close the lid gently, and centrifuge at full speed for 1 min.
 
     Perform this step to eliminate any possible carryover of Buffer RPE, or if residual flow-through remains on the outside of the RNeasy spin column after step 9.
 
