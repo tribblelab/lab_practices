@@ -47,7 +47,7 @@ Agenda: Review the [lab mentorship compact](https://github.com/tribblelab/lab_pr
 Snacks: Carrie
 
 ## November 17, 2025
-Agenda: Hybridization (Makoa)
+Agenda: Hybridization (Makoa + Lauren), read this [review](academic.oup.com/botlinnean/article/199/1/331/6449314)
 
 Snacks: Makoa
 
