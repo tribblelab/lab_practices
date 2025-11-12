@@ -4,6 +4,7 @@ All members of the lab are encouraged to attend lab meetings, including undergra
 Each academic year we will start lab meetings with a review of lab practices and provide opportunities for feedback on these practices. 
 Other lab meetings rotate between individual updates (plan on roughly 5 minutes of content on what you've been working on) and focused topics. Lab members will sign up to organize a lab meeting during the quarter and may pick what focused topic they want to highlight. Paper discussions should form the bulk of the lab meetings, but other topics may include: 
 - practice talks
+- skills sharing (coding workshop, etc.)
 - guest speaker from UW or elsewhere
 - alternative career path discussions/ guests
 
