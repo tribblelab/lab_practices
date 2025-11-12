@@ -61,7 +61,7 @@ All students (undergrad and grad) who attend lab meetings are encouraged to regi
 
 Lab meetings are held on campus in person by default (unless indicated otherwise). If lab meeting transitions fully to Zoom, we encourage cameras on for discussions, but cameras may be turned off during presentations. If you are not comfortable with cameras on during Zoom meetings, let your mentor know beforehand.
 
-All attendees are encouraged to bring food and eat during lab meetings. 
+All attendees are encouraged to bring food and eat during lab meetings, and we frequently coordinate this effort via a snack schedule, established with lab meeting topics at the beginning of the quarter. 
 
 The lab meeting agenda lives on [GitHub](lab_meetings.md). The agenda is set at the beginning of each quarter with input from all lab members. 
 
