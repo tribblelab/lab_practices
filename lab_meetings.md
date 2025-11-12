@@ -2,7 +2,10 @@
 # General lab meeting information
 All members of the lab are encouraged to attend lab meetings, including undergraduate student researchers and lab affiliates.
 Each academic year we will start lab meetings with a review of lab practices and provide opportunities for feedback on these practices. 
-Other lab meetings rotate between individual updates (plan on roughly 5 minutes of content on what you've been working on) and focused topics such as paper discussions, practice talks, etc.
+Other lab meetings rotate between individual updates (plan on roughly 5 minutes of content on what you've been working on) and focused topics. Lab members will sign up to organize a lab meeting during the quarter and may pick what focused topic they want to highlight. Paper discussions should form the bulk of the lab meetings, but other topics may include: 
+- practice talks
+- guest speaker from UW or elsewhere
+- alternative career path discussions/ guests
 
 ## Lab meeting agenda: Fall 2025
 Mondays 9:00 am -- 10:00 am in LSB 301
@@ -54,7 +57,9 @@ Snacks: Carrie
 
 ## December 1, 2025
 Agenda: Fanya TBD
+
 Note: Carrie will Zoom in 
+
 Snacks: Fanya
 
 
