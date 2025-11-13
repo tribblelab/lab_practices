@@ -50,7 +50,7 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
    
    **Note:** The volume of lysate may be less than 450 μl due to loss during homogenization. Precipitates may be visible after addition of ethanol. This does not affect the procedure.
 
-6. Transfer the sample (usually 650 μl), including any precipitate that may have formed, to an RNeasy spin column (pink) placed in a 2 ml collection tube (supplied). Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard the flow-through into the waste container in the satalite accumulation area.
+6. Transfer the sample (usually 650 μl), including any precipitate that may have formed, to an RNeasy spin column (pink) placed in a 2 ml collection tube (supplied). Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard the flow-through into the sink.
    
    **Reuse the collection tube in step 7.** If the sample volume exceeds 700 μl, centrifuge successive aliquots in the same RNeasy spin column. Discard the flow-through into the sink after each centrifugation.
    
