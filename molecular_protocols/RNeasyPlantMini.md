@@ -33,6 +33,7 @@ Counting cells or weighing tissue is the most accurate way to quantitate the amo
 ## Procedure
 <img src="images/rneasy_protocol_steps.png" alt="protocol_steps" width="500">
 1. Determine the amount of plant material. Do not use more than 100 mg. Weighing tissue is the most accurate way to determine the amount.
+
 2. Immediately place the weighed tissue in liquid nitrogen, and grind thoroughly with a mortar and pestle. Decant tissue powder and liquid nitrogen into an RNAse-free, liquid-nitrogen–cooled, 2 ml microcentrifuge tube (not supplied). Allow the liquid nitrogen to evaporate, but do not allow the tissue to thaw. Proceed immediately to step 3.
 
    **Note:** RNA in plant tissues is not protected until the tissues are flash-frozen in liquid nitrogen. Frozen tissues should not be allowed to thaw during handling. The relevant procedures should be carried out as quickly as possible.
