@@ -120,11 +120,9 @@ Combine
 ## Appendix: Disposal/Cleaning
 1. **Pipet tips** should be disposed of in designated tip disposal containers. 
 
-    A. Tips that were used for chloroform should be disposed of in the 24:1 isoamyl alcohol:chloroform solid waste container. Seal container after use. When ¾ full, let your mentor know so they can request solid waste pick up. Keep container in the Satellite Accumulation Area (SAA).
+    A. Tips that were used for chloroform or BME should be disposed of in the specified solid waste container in the hood. Seal container after use. When ¾ full, let your mentor know so they can request solid waste pick up. Keep container in the Satellite Accumulation Area (SAA).
 
-    B. Tips that were used for BME should be disposed of in the BME solid waste container. Seal container after use. When ¾ full, let your mentor know so they can request solid waste pick up. Keep container in the SAA.
-
-    C. Tips that were used for anything else should be disposed of in the Lab Glass cardboard box. When full, tape shut using Lab Glass tape in the cabinet near the computer. Leave by the trash so that it can be picked up.
+    B. Tips that were used for anything else should be disposed of in the Lab Glass cardboard box. When full, tape shut using Lab Glass tape in the cabinet near the computer. Leave by the trash so that it can be picked up.
 
 2. **Used gloves** are disposed of in the trash unless they’re contaminated with chloroform or BME, then they are disposed of in designated solid waste containers in the SAA.
 3. **Ball bearings** are cleaned according to the steelball_cleaning procedure (bleach decontamination) 
