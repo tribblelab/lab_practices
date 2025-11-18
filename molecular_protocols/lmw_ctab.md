@@ -128,7 +128,7 @@ Combine
 3. **Ball bearings** are cleaned according to the steelball_cleaning procedure (bleach decontamination) 
 4. **Fish net** should be washed with Alconox (detergent) solution and rinsed with water.
 5. **Tubes after supernatant removal** are discarded in the waste container in fume hood after remaining the liquid is drained into the appropriate disposal container under the fume hood. Hazards include CTAB,  β-mercaptoethanol, and chloroform isoamyl alcohol.
-6. **Contaminated ethanol** after washes is disposed of in the appropriately labeled waste container in the SAA. The beaker used to hold this ethanol should be washed with Alconox (detergent) solution and rinsed with water.
+6. **Contaminated ethanol** after the first wash is disposed of in the appropriately labeled waste container in the SAA. Subsequent washes can be disposed of in the sink. The beaker used to hold this ethanol should be washed with Alconox (detergent) solution and rinsed with water.
 7. If solution remains, the **beaker from mixing CTAB lysis buffer** should be rinsed with DI water into a waist container. Once empty, wash the beaker with Alconox (detergent) solution and rinse with water.
 8. **Qubit tubes and solutions** for quantification may be disposed of in the trash.
 
