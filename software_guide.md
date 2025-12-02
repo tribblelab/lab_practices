@@ -47,8 +47,28 @@ It is required that all lab members working on lab-related research on their per
 
 The lab uses GitHub (where you are now) to faciliate version control and collaborative work when writing code. A good introduction to GitHub and version control with ``git`` can be found [here](https://swcarpentry.github.io/git-novice/). Are you a trailblazer and desperately want to use Bitbucket, etc.? Let's talk. 
 
-Note: when creating repos within the lab GitHub organization, to ``clone`` & then edit your repository on your computer or to a cluster like HYAK, you will probably need SSH key log-in credentials (not using the HTTPS URL method). Follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate an SSH key on either your computer or the cluster. Then follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to add your newly generated SSH key to your GitHub account. Once you've done so, you can ``git clone`` your repository like so: ``git clone git@github.com:tribblelab/lab_practices.git``. (That last bit of that command will be different for each repostitory. You can find yours if you're in your repository home page, then click the green "Code" button, then click the SSH tab under "Clone").
+### Setting up GitHub on HYAK/locally
 
+When creating repos within the lab GitHub organization, to ``clone`` & then edit your repository on your computer or to a cluster like HYAK, you will probably need SSH key log-in credentials (not using the HTTPS URL method). Instructions below:
+
+1. Generate an SSH key on either your computer (locally) or the cluster [(instructions here)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+2. add your newly generated SSH key to your GitHub account [(instructions here)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+3. Once you've done so, you can ``git clone`` your repository like so: ``git clone git@github.com:tribblelab/lab_practices.git``. (That last bit of that command will be different for each repostitory. You can find yours if you're in your repository home page, then click the green "Code" button, then click the SSH tab under "Clone").
+4. If you're setting up SSH keys on the *cluster* (not locally), you might have to modify your `~/.ssh/config` file. On 12-02-25, I (Lauren) changed my file to be like so:
+
+```
+# Automatically Added  2025-11-25
+Host *
+   IdentityFile ~/.ssh/klone
+   StrictHostKeyChecking=no
+
+Host github.com
+  IdentityFile ~/.ssh/id_ed25519
+```
+
+where I was appending the `Host github.com ...` bit. This circumvented this error: `git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.` when `git pull`ing.
+   
 ## Communication tools
 
 The lab uses Slack to communicate day-to-day and as a group. Emails are best for larger asks, such as looking over a paper draft, letters of recommendation, etc. Slack is great for "who left Sleepless in Seattle playing on the lab computer?" or "does anyone have a copy of the Flora of the Pacific Northwest I can borrow to identify this cool plant I saw last weekend?" or "Help! I keep getting this error in R and I can't figure out why." 
