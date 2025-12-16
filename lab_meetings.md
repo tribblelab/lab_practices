@@ -9,33 +9,31 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 - alternative career path discussions/ guests
 
 ## Lab meeting agenda: Winter 2026
-Mondays 9:00 am -- 10:00 am in LSB 301
+Fridays 9:00 am -- 10:00 am (with the exception of the first meeting)
 
-### January 5, 2026
+### January 5, 2026 in LSB 401
 Agenda: Quarter planning, Lauren lightning talk practice
 
 Snacks: Carrie
 
-### January 12, 2026
-Note: Carrie and Lauren will be away
+### January 16, 2026
+Note: switch to Fridays for rest of quarter!!
 
-### January 19, 2026
-MLK Day
+### January 23, 2026
 
-### January 26, 2026
+### January 30, 2026
 
-### February 2, 2026
+### February 6, 2026
 
-### February 9, 2026
+### February 13, 2026
 
-### February 16, 2026
-President's Day
+### February 20, 2026
 
-### February 23, 2026
+### February 27, 2026
 
-### March 9, 2026
+### March 6, 2026
 
-### March 16, 2026
+### March 13, 2026
 Finals week
 
 ## Lab meeting agenda: Fall 2025
