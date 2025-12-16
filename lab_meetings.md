@@ -13,6 +13,7 @@ Mondays 9:00 am -- 10:00 am in LSB 301
 
 ### January 5, 2026
 Agenda: Quarter planning, Lauren lightning talk practice
+
 Snacks: Carrie
 
 ### January 12, 2026
