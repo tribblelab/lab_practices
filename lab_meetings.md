@@ -34,7 +34,9 @@ Note: switch to Fridays for rest of quarter!!
 ### March 6, 2026
 
 ### March 13, 2026
-Finals week
+
+### March 20, 2026
+last day of finals
 
 ## Lab meeting agenda: Fall 2025
 Mondays 9:00 am -- 10:00 am in LSB 301
