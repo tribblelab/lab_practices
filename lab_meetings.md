@@ -9,34 +9,62 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 - alternative career path discussions/ guests
 
 ## Lab meeting agenda: Winter 2026
-Fridays 9:00 am -- 10:00 am (with the exception of the first meeting)
+Fridays 9:00 am -- 10:00 am (with the exception of the first meeting) in LSB 301
 
 ### January 5, 2026 in LSB 401
-Agenda: Quarter planning, Lauren lightning talk practice
+Agenda: Quarter planning
 
 Snacks: Carrie
 
-### January 16, 2026
+### January 16, 2026 
+Agenda: updates
+
+Snacks: Carrie
+
 Note: switch to Fridays for rest of quarter!!
 
 ### January 23, 2026
+Agenda: Lauren intro to git, how to think about debugging
+
+Snacks: Lauren
 
 ### January 30, 2026
+Agenda: updates
+
+Snacks: Carrie
 
 ### February 6, 2026
+Agenda: Makoa tbd
+
+Snacks: Makoa (upon confirmation)
 
 ### February 13, 2026
+Agenda: updates
+
+Snacks: Carrie
 
 ### February 20, 2026
+Agenda: Emily tbd
+
+Snacks: Emily
 
 ### February 27, 2026
+Agenda: updates
+
+Snacks: Carrie
 
 ### March 6, 2026
+Agenda: Chiara tbd
+
+Snacks: Chiara
 
 ### March 13, 2026
+Agenda: updates
+
+Snacks: Carrie
 
 ### March 20, 2026
-last day of finals
+last day of finals, probably not meeting
 
 ## Lab meeting agenda: Fall 2025
 Mondays 9:00 am -- 10:00 am in LSB 301
