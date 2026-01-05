@@ -44,7 +44,7 @@ Agenda: updates
 Snacks: Carrie
 
 ### February 20, 2026
-Agenda: Emily tbd
+Agenda: Emily + Dick - paper from Systematic Biology 75th anniversary issue
 
 Snacks: Emily
 
