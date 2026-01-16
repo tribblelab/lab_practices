@@ -8,3 +8,6 @@
 - password: ask Carrie
 
 When you disconnect, repeat 1&2, rest of info is stored
+
+To ssh into the NAS from terminal, run ``ssh tribblelab@10.158.30.63`` and authenticate with same password as above. 
+You will then have to cd into the correct NetBackup directory where data are stored: ``cd /var/services/NetBackup``.
