@@ -31,8 +31,11 @@ This checklist outlines the steps to complete as part of your onboarding process
 
 ---
 
-## Digital Access
+## Digital Access and Contact
 
+- [ ] **Connect with lab communication channels**
+  - Subscribe to the lab email liserv by clicking [here](https://lists.uw.edu/postorius/lists/tribble_lab.lists.uw.edu/).
+  - Ask your mentor to add you to the lab slack.
 - [ ] **Provide access to digital resources**  
   Grant access as appropriate to:  
   - Lab shared Google Drive
