@@ -44,7 +44,7 @@ Agenda: updates
 Snacks: Carrie
 
 ### February 20, 2026
-Agenda: Emily + Dick - paper from Systematic Biology 75th anniversary issue
+Agenda: Emily + Dick - [Seventy-Five Years of Systematic Biology: Looking Back, Moving Forward](https://academic.oup.com/sysbio/article/75/1/3/8316855?searchresult=1) from Systematic Biology 75th anniversary issue
 
 Snacks: Emily
 
