@@ -90,7 +90,7 @@ Combine
 
 
 #### 1. Lysis and isolation steps
-0. If grinding -80º samples, dunk geno/grinder cryoblocks and samples into liquid nitrogen before grinding to keep them frozen.
+0. If grinding -80º samples, dunk geno/grinder cryoblocks and samples with beads into liquid nitrogen before grinding to keep them frozen.
 1. Place tubes with beads and tissues in the bead mill. Balance your samples. Grind at 1500 rpm for 1 minute (or longer, as needed). Some recommendations for removing headspace between tops of tubes and the tray: pad the plate with several folded paper towels between tubes and the lid, or remove the lid altogether and lower the top of the genogrinder tray to be in contact with the tubes.
 2. Repeat Extraction step 1 and grind the tissues for an additional minute (up to 4 min can be used to assure that the tissue is fully ground).
 3. Add 500 μL of the CTAB lysis buffer to the dry tissue in each tube in the fume hood. 
