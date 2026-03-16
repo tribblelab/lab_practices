@@ -44,5 +44,5 @@
 - This is a **molecular lab** — **no exceptions**.
 
 ### 5. Report Incidents Immediately
-- Report **all spills, accidents, or injuries** (even minor ones) to your mentor or PI.
+- Report **all spills, accidents, or injuries** (even minor ones) to your mentor or PI and [Online Accident Reporting System](https://oars.ehs.washington.edu/Oars/).
 - Your safety is the **top priority** — nothing is worth risking your health.
