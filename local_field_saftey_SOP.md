@@ -1,8 +1,7 @@
 ## Once per Field Season
 
 - Check first aid and CPR certifications, renew if necessary ([UW EMS](https://sites.google.com/view/uwems/register-for-a-training-class))
-- Create travel authorization for the field season  
-  *(Admin Gateway → My Travel → Travel Authorization Request)*
+- Create a [travel authorization](https://admin.biology.uw.edu/travel-requests) for the field season
 - Check if UCAR training is up to date, perform training if necessary
   - UW driver agreement goes to PI
 - If not registered for [UCAR](https://transportation.uw.edu/getting-around/vehicle-rental-ucar), create an account  
@@ -13,8 +12,8 @@
 
 ## Day(s) Before
 
-- Fill out Field Work Safety Plan (template in lab Google Drive)  
-  - Email to Research Chair (Clemens Cabernard; [ccabern@uw.edu](mailto:ccabern@uw.edu)) and PI (Carrie Tribble; [tribblec@uw.edu](mailto:tribblec@uw.edu))
+- Fill out and submit a Field Safety Plan
+  - [This](https://drive.google.com/drive/folders/1pt1yxTRA-tq2JB5VL86Fu9HmtOA3-xuD) folder contains templates and a place to sumbit *(Field research safety plans → Tribble Lab)*
 - Identify field partners if applicable
   - Clearly communicate who will be the point-person/decision-maker on the trip
 - Create a collecting plan (locations, species, etc.)
