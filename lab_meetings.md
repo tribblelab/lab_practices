@@ -17,31 +17,31 @@ Agenda: Quarter planning
 Snacks: Carrie
 
 ### April 6, 2026
-Agenda: 
+Agenda: Updates
 
 ### April 13, 2026
-Agenda: 
+Agenda: Lauren, paper discussion
 
 ### April 20, 2026
-Agenda: 
+Agenda: Updates
 
 ### April 27, 2026
-Agenda: 
+Agenda: Erik & Hayden
 
 ### May 4, 2026
-Agenda: 
+Agenda: Updates
 
 ### May 11, 2026
-Agenda: 
+Agenda: Undates
 
 ### May 18, 2026
-Agenda: 
+Agenda: Jiansi Gao visits: discuss [this paper](https://www.pnas.org/doi/abs/10.1073/pnas.2510938123)
 
 ### May 25, 2026
 no meeting, Memorial Day
 
 ### June 1, 2026
-Agenda: 
+Agenda: Makoa
 
 ## Lab meeting agenda: Winter 2026
 Fridays 9:00 am -- 10:00 am (with the exception of the first meeting) in LSB 301
