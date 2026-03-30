@@ -20,28 +20,28 @@ Snacks: Carrie
 Agenda: Updates
 
 ### April 13, 2026
-Agenda: Lauren, paper discussion
+Agenda: Lauren, paper discussion (Lauren snacks)
 
 ### April 20, 2026
 Agenda: Updates
 
 ### April 27, 2026
-Agenda: Erik & Hayden
+Agenda: Erik & Hayden (Makoa snacks)
 
 ### May 4, 2026
 Agenda: Updates
 
 ### May 11, 2026
-Agenda: Undates
+Agenda: Undergrad research symposium (Elizabeth snacks)
 
 ### May 18, 2026
-Agenda: Jiansi Gao visits: discuss [this paper](https://www.pnas.org/doi/abs/10.1073/pnas.2510938123)
+Agenda: Jiansi Gao visits: discuss [this paper](https://www.pnas.org/doi/abs/10.1073/pnas.2510938123) (Chiara snacks)
 
 ### May 25, 2026
 no meeting, Memorial Day
 
 ### June 1, 2026
-Agenda: Makoa
+Agenda: Makoa (Emily snacks)
 
 ## Lab meeting agenda: Winter 2026
 Fridays 9:00 am -- 10:00 am (with the exception of the first meeting) in LSB 301
