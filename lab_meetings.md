@@ -8,6 +8,41 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 - guest speaker from UW or elsewhere
 - alternative career path discussions/ guests
 
+## Lab meeting agenda: Spring 2026
+Mondays 4:00 pm -- 5:00 pm in LSB 402
+
+### March 30, 2026
+Agenda: Quarter planning
+
+Snacks: Carrie
+
+### April 6, 2026
+Agenda: 
+
+### April 13, 2026
+Agenda: 
+
+### April 20, 2026
+Agenda: 
+
+### April 27, 2026
+Agenda: 
+
+### May 4, 2026
+Agenda: 
+
+### May 11, 2026
+Agenda: 
+
+### May 18, 2026
+Agenda: 
+
+### May 25, 2026
+no meeting, Memorial Day
+
+### June 1, 2026
+Agenda: 
+
 ## Lab meeting agenda: Winter 2026
 Fridays 9:00 am -- 10:00 am (with the exception of the first meeting) in LSB 301
 
