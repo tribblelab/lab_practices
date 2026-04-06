@@ -20,7 +20,11 @@ Snacks: Carrie
 Agenda: Updates
 
 ### April 13, 2026
-Agenda: Lauren, paper discussion (Lauren snacks)
+Agenda: Lauren, potato paper discussion (Lauren snacks)
+
+[Paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00736-6)
+
+[Commentary (optional)](https://www.cell.com/cell/fulltext/S0092-8674(25)01019-0)
 
 ### April 20, 2026
 Agenda: Updates
