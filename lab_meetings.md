@@ -33,7 +33,7 @@ Agenda: Updates
 Agenda: Erik & Hayden (Makoa snacks)
 
 ### May 4, 2026
-Agenda: Updates
+Agenda: Emily general exam practice presentation
 
 ### May 11, 2026
 Agenda: Undergrad research symposium (Elizabeth snacks)
