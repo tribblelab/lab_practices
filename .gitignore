@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# mac messiness
+.DS_Store
+*/.DS_Store
+
