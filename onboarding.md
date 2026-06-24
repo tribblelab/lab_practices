@@ -64,6 +64,9 @@ Complete the following **required safety trainings** before working in the wet l
 
 - [ ] Once all trainings are complete, record your completion in the [Safety Trainings Spreadsheet](https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1BtiMnVqTWQKF9rYF_aulB1vvZxq-NE3c0_LEdKh-x2Y/edit?usp=sharing__;!!K-Hz7m0Vt54!k9WFPTDmiu90a9z_AUDf5tvNnpFIb9Iyq8R-SBdWregKi-PGcVRdTUHOIku3QubhW2XEZ80WrmNn55lFY6pKVaYtv4g$).
 
+Before using hazardous chemicals: 
+- [ ] Read and sign the SOPs in the shared lab Drive (safety → wet_lab → SOP)
+
 Before beginning any procedure:
 
 - [ ] Review the appropriate protocol in the [molecular_protocols section of the lab_practices repository](https://github.com/tribblelab/lab_practices/tree/main/molecular_protocols). If your procedure does not have a protocol in this repository, make one. 
