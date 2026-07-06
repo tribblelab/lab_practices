@@ -16,4 +16,4 @@ You will then have to cd into the correct NetBackup directory where data are sto
 
 ## interactive browser
 
-Using the same login information (`tribblelab` as user, specified password), you can use the [interactive browser](http://tribblenas.biology.uw.edu:5000/)
+Using the same login information (`tribblelab` as user, specified password), you can use the [interactive browser](http://tribblenas.biology.uw.edu:5000/). The interactive browser is helpful if you need to zip/unzip files.
