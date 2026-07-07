@@ -67,6 +67,7 @@ Complete the following **required safety trainings** before working in the wet l
 Other steps to take before working in the wet lab:
 - [ ] Read and sign the SOPs in the shared lab Drive (safety → wet_lab → SOP)
 - [ ] Add your name and information to the Lab Safety Manual in the shared lab Drive (under safety) and to the printed version above the computers in the lab space.
+- [ ] Review how and when to report accidents, incidents, or near misses through the Online Accident Reporting System ([OARS](https://www.ehs.washington.edu/workplace/incident-reporting)).
 
 Before beginning any procedure:
 
