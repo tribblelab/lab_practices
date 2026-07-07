@@ -64,8 +64,9 @@ Complete the following **required safety trainings** before working in the wet l
 
 - [ ] Once all trainings are complete, record your completion in the [Safety Trainings Spreadsheet](https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1BtiMnVqTWQKF9rYF_aulB1vvZxq-NE3c0_LEdKh-x2Y/edit?usp=sharing__;!!K-Hz7m0Vt54!k9WFPTDmiu90a9z_AUDf5tvNnpFIb9Iyq8R-SBdWregKi-PGcVRdTUHOIku3QubhW2XEZ80WrmNn55lFY6pKVaYtv4g$).
 
-Before using hazardous chemicals: 
+Other steps to take before working in the wet lab:
 - [ ] Read and sign the SOPs in the shared lab Drive (safety → wet_lab → SOP)
+- [ ] Add your name and information to the Lab Safety Manual in the shared lab Drive (under safety) and to the printed version above the computers in the lab space.
 
 Before beginning any procedure:
 
