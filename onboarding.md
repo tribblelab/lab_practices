@@ -73,7 +73,7 @@ Before beginning any procedure:
 
 - [ ] Review the appropriate protocol in the [molecular_protocols section of the lab_practices repository](https://github.com/tribblelab/lab_practices/tree/main/molecular_protocols). If your procedure does not have a protocol in this repository, make one. 
 - [ ] Review the relevant SDS sheets and SOPs in the [wet_lab directory](https://drive.google.com/drive/folders/1J7hvO_3rrFGMuC97lV8Th66K7FN8YiBe?usp=drive_link) on the lab shared Google Drive. For new protocols, be sure to add any new SDS sheets and/or SOPs.
-- [ ] For new expiriments, complete a [labratory risk assesment](https://www.ehs.washington.edu/resource/laboratory-risk-assessment-tool-lab-rat-843) and add it to the lab Google Drive (safety → wet_lab → Risk_Assesment).
+- [ ] For new projects, complete a [labratory risk assesment](https://www.ehs.washington.edu/resource/laboratory-risk-assessment-tool-lab-rat-843) and add it to the lab Google Drive (safety → wet_lab → Risk_Assesment).
 
 ---
 
