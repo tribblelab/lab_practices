@@ -14,14 +14,16 @@ conda create --prefix /gscratch/tribblelab/<myfolder>/<myenv> -n captus -c bioco
 ```
 here, I call an interactive node, load the `conda` module available on HYAK, then create the `captus` conda env.
 
-hereafter, to load in the `captus` conda env *interactively* to do like this:
+hereafter, to load in the `captus` conda env *interactively*:
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
 module load conda
 conda activate captus
 ```
 
-## Checking storage status
+## Storage on HYAK
+
+### Checking storage status
 
 Run command `hyakstorage` to get the status of both individual user + `gscratch/tribblelab` disk/file usage.
 
