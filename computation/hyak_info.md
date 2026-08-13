@@ -21,7 +21,7 @@ conda env export --prefix /gscratch/tribblelab/conda/captus --no-builds \
 ```
 here, I call an interactive node, load the `conda` module available on HYAK, then create the `captus` conda env.
 
-then to have your ~own~ conda env look in the right place (aka add it to its path):
+then to have your *own* conda env look in the right place (aka add it to its path):
 1. `nano ~/.condarc`
 2. add lines
 ```
