@@ -10,15 +10,30 @@ to be done ONCE:
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
 module load conda
-conda create --prefix /gscratch/tribblelab/<myfolder>/<myenv> -n captus -c bioconda -c conda-forge captus bbmap=39.80 salmon=1.10.3 mafft=7.526
+conda create --prefix /gscratch/tribblelab/conda/captus \
+  -c bioconda -c conda-forge \
+  captus bbmap=39.80 salmon=1.10.3 mafft=7.526
+
+chmod -R g+rX /gscratch/tribblelab/conda/captus
+
+conda env export --prefix /gscratch/tribblelab/conda/captus --no-builds \
+  > /gscratch/tribblelab/conda/captus_environment.yml
 ```
 here, I call an interactive node, load the `conda` module available on HYAK, then create the `captus` conda env.
+
+then to have your ~own~ conda env look in the right place (aka add it to its path):
+1. `nano ~/.condarc`
+2. add lines
+```
+pkgs_dirs:
+  - /gscratch/tribblelab/conda/conda_pkgs
+```
 
 hereafter, to load in the `captus` conda env *interactively*:
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
 module load conda
-conda activate captus
+conda activate /gscratch/tribblelab/conda/captus
 ```
 
 ## Storage on HYAK
