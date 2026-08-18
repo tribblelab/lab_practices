@@ -6,6 +6,7 @@
 
 [CAPTUS](https://github.com/edgardomortiz/captus) is a pipeline for assembling high-throughput sequencing reads.
 
+#### install 
 to be done ONCE:
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
@@ -21,17 +22,25 @@ conda env export --prefix /gscratch/tribblelab/conda/captus --no-builds \
 ```
 here, I call an interactive node, load the `conda` module available on HYAK, then create the `captus` conda env.
 
+#### usage
+
 then to have your *own* conda env look in the right place (aka add it to its path):
 1. `nano ~/.condarc`
 2. add lines
 ```
 pkgs_dirs:
-  - /gscratch/tribblelab/conda/conda_pkgs
+  - /gscratch/tribblelab/conda
 ```
 
 hereafter, to load in the `captus` conda env *interactively*:
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
+module load conda
+conda activate /gscratch/tribblelab/conda/captus
+```
+
+or, in a script submitted via slurm, just add these lines:
+```{bash}
 module load conda
 conda activate /gscratch/tribblelab/conda/captus
 ```
