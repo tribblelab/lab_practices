@@ -40,13 +40,16 @@ This checklist outlines the steps to complete as part of your onboarding process
   Grant access as appropriate to:  
   - Lab shared Google Drive
   - Lab GitHub [organization](https://github.com/tribblelab)  
-  - [lilNASx](https://github.com/tribblelab/lab_practices/blob/main/server_info.md)  
+  - [lilNASx](https://github.com/tribblelab/lab_practices/blob/main/computation/nas_info.md)  
   - [HYAK](https://hyak.uw.edu/docs/)
     - PI will add you to the lab group following [these instructions](https://hyak.uw.edu/docs/join-group)
     - You should watch the short [how-to introductory videos](https://hyak.uw.edu/learn) prior to using HYAK
   - Shared lab computers
 
-- [ ] **Add your contact information** to the [contact_info](https://github.com/tribblelab/internal/blob/main/contact_info.md) document on GitHub. To edit this document, click the pencil/ edit icon at the upper right corner and see [this guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) for writing in markdown format. Note that this document lives in a private repository only visible to other lab members. We will only use cell phone information as outlined in the [mentorship_compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship_compact.md) and [mentor_mentee_dyad](https://github.com/tribblelab/lab_practices/blob/main/mentor_mentee_dyad.md) documents.
+- [ ] **Add your contact information** to the [contact_info](https://github.com/tribblelab/internal/blob/main/contact_info.md) document on GitHub. To edit this document, click the pencil/ edit icon at the upper right corner and see [this guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) for writing in markdown format. Note that this document lives in a private repository only visible to other lab members. We will only use cell phone information as outlined in the [mentorship_compact](https://github.com/tribblelab/lab_practices/blob/main/mentorship/mentorship_compact.md) and [mentor_mentee_dyad](
+https://github.com/tribblelab/lab_practices/blob/main/mentorship/mentor_mentee_dyad.md) documents.
+
+
 
 - [ ] **Add lab website profile**
   Use the existing lab members' biographies as an example ([tribblelab.org/team](https://tribblelab.org/team)), and send your photo, bio, pronouns (optional), and socials/ contact information to the PI. She will then add your profile to the website. 
