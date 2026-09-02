@@ -42,7 +42,7 @@ This checklist outlines the steps to complete as part of your onboarding process
   - Lab GitHub [organization](https://github.com/tribblelab)  
   - [lilNASx](https://github.com/tribblelab/lab_practices/blob/main/computation/nas_info.md)  
   - [HYAK](https://hyak.uw.edu/docs/)
-    - PI will add you to the lab group following [these instructions](https://hyak.uw.edu/docs/join-group)
+    - PI will add you to the lab group following [these instructions](https://hyak.uw.edu/docs/getting-started/join-group)
     - You should watch the short [how-to introductory videos](https://hyak.uw.edu/learn) prior to using HYAK
   - Shared lab computers
 
