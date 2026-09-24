@@ -8,6 +8,36 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 - guest speaker from UW or elsewhere
 - alternative career path discussions/ guests
 
+## Lab meeting agenda: Fall 2026
+Thursdays 8:00 am -- 9:00 am in ??
+
+### October 15, 2026
+Agenda: 
+
+### October 22, 2026
+Agenda: 
+
+### October 29, 2026
+Agenda: Lauren practices her ASPT seminar talk
+
+### November 5, 2026
+Agenda: 
+
+### November 12, 2026
+Agenda: 
+
+### November 19, 2026
+Agenda: 
+
+*** _No meeting November 26 - Thanksgiving_ ***
+
+### December 3, 2026
+Agenda: 
+
+### December 10, 2026
+Agenda: 
+
+
 ## Lab meeting agenda: Spring 2026
 Mondays 4:00 pm -- 5:00 pm in LSB 402
 
