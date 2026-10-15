@@ -30,7 +30,7 @@ Agenda: updates! send slides to Carrie the night before.
 Snacks: Sasha
 
 ### November 12, 2026
-Agenda: AI use and guidelines.
+Agenda: discussion on AI use and creation of lab guidelines.
 
 Snacks: Carrie
 
