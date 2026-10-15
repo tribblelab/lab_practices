@@ -16,32 +16,39 @@ Agenda: figure out schedule for quarter, etc.
 
 ### October 22, 2026
 Agenda: Review lab/mentorship expectations
+
 Snacks: Peter
 
 ### October 29, 2026
 Agenda: Lauren practices her ASPT seminar talk
+
 Snacks: Lauren
 
 ### November 5, 2026
 Agenda: updates! send slides to Carrie the night before.
+
 Snacks: Sasha
 
 ### November 12, 2026
 Agenda: AI use and guidelines.
+
 Snacks: Carrie
 
 ### November 19, 2026
 Agenda: updates! send slides to Carrie the night before.
+
 Snacks: Hayden
 
 *** _No meeting November 26 - Thanksgiving_ ***
 
 ### December 3, 2026
 Agenda: ??? Mutiny ?? (Carrie & Lauren out of town)
+
 Snacks: Makoa
 
 ### December 10, 2026
 Agenda: Emily practice talk
+
 Snacks: Emily
 
 ## Lab meeting agenda: Spring 2026
