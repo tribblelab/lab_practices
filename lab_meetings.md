@@ -9,34 +9,40 @@ Other lab meetings rotate between individual updates (plan on roughly 5 minutes 
 - alternative career path discussions/ guests
 
 ## Lab meeting agenda: Fall 2026
-Thursdays 8:00 am -- 9:00 am in ??
+Thursdays 8:00 am -- 9:00 am in LSB 501
 
 ### October 15, 2026
-Agenda: 
+Agenda: figure out schedule for quarter, etc.
 
 ### October 22, 2026
-Agenda: 
+Agenda: Review lab/mentorship expectations
+Snacks: Peter
 
 ### October 29, 2026
 Agenda: Lauren practices her ASPT seminar talk
+Snacks: Lauren
 
 ### November 5, 2026
-Agenda: 
+Agenda: updates! send slides to Carrie the night before.
+Snacks: Sasha
 
 ### November 12, 2026
-Agenda: 
+Agenda: AI use and guidelines.
+Snacks: Carrie
 
 ### November 19, 2026
-Agenda: 
+Agenda: updates! send slides to Carrie the night before.
+Snacks: Hayden
 
 *** _No meeting November 26 - Thanksgiving_ ***
 
 ### December 3, 2026
-Agenda: 
+Agenda: ??? Mutiny ?? (Carrie & Lauren out of town)
+Snacks: Makoa
 
 ### December 10, 2026
-Agenda: 
-
+Agenda: Emily practice talk
+Snacks: Emily
 
 ## Lab meeting agenda: Spring 2026
 Mondays 4:00 pm -- 5:00 pm in LSB 402
