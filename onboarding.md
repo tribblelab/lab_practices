@@ -8,7 +8,7 @@ This checklist outlines the steps to complete as part of your onboarding process
 ## Building Access and Workspace
 
 - [ ] **Physical access**  
-  Fill out the [key request form](https://intranet.biology.uw.edu/files/keyrequestform2024.pdf) for **Pod Level 4 west** and **Life Sciences exterior doors**. Sign document and send to PI for signature.   
+  Fill out the [key request form](https://drive.google.com/file/d/12ZMcKLdNLyCNzeQpnBRb0drXpsUU416s/view?usp=drive_link) for **Pod Level 4 west** and **Life Sciences exterior doors**. Sign document and send to PI for signature.   
   Discuss additional access needs (e.g., greenhouse, herbarium) with the PI as needed.
 
 - [ ] **Desk space**  
