@@ -63,7 +63,7 @@ Lab meetings are held on campus in person by default (unless indicated otherwise
 
 All attendees are encouraged to bring food and eat during lab meetings, and we frequently coordinate this effort via a snack schedule, established with lab meeting topics at the beginning of the quarter. 
 
-The lab meeting agenda lives on [GitHub](lab_meetings.md). The agenda is set at the beginning of each quarter with input from all lab members. 
+The lab meeting agenda lives on [GitHub](../lab_meetings.md). The agenda is set at the beginning of each quarter with input from all lab members. 
 
 ### Lab social events
 All lab social events are optional, but at least occasional participation is encouraged. If long-term lab members stop attending any social events, the PI may take this as a red flag about lab dynamics and initiate a conversation. Lab social events are planned by the lab social committee (committee members volunteer at the beginning of the academic year) and the the PI. The social committee will plan a diversity of activities. No activities will be oriented around alcohol consumption, but alcohol may be an option at some events. The PI will cover some meals as part of social activities. All social event announcements will be explicit about any costs for attending. 
@@ -83,7 +83,7 @@ Outside of regular meetings, the PI recommends the following for in-person commu
   - If there is an emergency^* do whatever you need to do to get ahold of the PI (knock on a closed/ latched door, call cell phone, etc.) 
 ^* Emergencies include you or anyone you know experiencing a mental health crises, any type of physical injury or emergency, fires, freezers failing, etc.
 
-The lab uses Slack and email to communicate. See the [lab software guide](software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). 
+The lab uses Slack and email to communicate. See the [lab software guide](../computation/software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). 
 ***** add a private doc with all contact info for lab memebers ***** 
 
 ### Lab Data
@@ -95,7 +95,7 @@ All code should be stored on GitHub in repositories affiliated with the lab [Git
 
 The person who generates the data/ code is responsible for storing it on the lab server/ GitHub and sufficiently documenting it for future users. We recommend that you set up data management and documentation practices as you are collecting the data, instead of at the end. 
 
-See also: [lab software guide](software_guide.md). 
+See also: [lab software guide](../computation/software_guide.md). 
 
 ### Vacation and sick time
 Mentees should inform their mentors if they will miss an expected event (*e.g.* lab meeting, individual meetings) because of illness. If mentees take vacation or time off during non-UW holidays, they should communicate this with their mentor as far in advance as possible. 
