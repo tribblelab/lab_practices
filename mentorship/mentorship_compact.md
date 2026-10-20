@@ -83,8 +83,7 @@ Outside of regular meetings, the PI recommends the following for in-person commu
   - If there is an emergency^* do whatever you need to do to get ahold of the PI (knock on a closed/ latched door, call cell phone, etc.) 
 ^* Emergencies include you or anyone you know experiencing a mental health crises, any type of physical injury or emergency, fires, freezers failing, etc.
 
-The lab uses Slack and email to communicate. See the [lab software guide](../computation/software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). 
-***** add a private doc with all contact info for lab memebers ***** 
+The lab uses Slack and email to communicate. See the [lab software guide](../computation/software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). Contact info can be found [here](https://github.com/tribblelab/internal/blob/main/contact_info.md), only available for members part of the lab GitHub organization.
 
 ### Lab Data
 Lab data are stored on a network-attached storage (NAS) device (the lab server) which lives in the computational workroom. All lab members have access to the drive remotely, though off-campus or off-network access must be via a VPN. The lab server has protection against disc failure and is backed up to the cloud for off-site security. 
