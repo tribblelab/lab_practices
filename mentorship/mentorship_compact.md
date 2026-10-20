@@ -91,7 +91,7 @@ Lab data are stored on a network-attached storage (NAS) device (the lab server) 
 
 All lab members conducting research in the lab should ensure that any work is backed up (drafts of writing, figures, etc.) even if that work doesn't live on the lab server. One option to set up a backup system for your whole computer, via a cloud service or an external hard drive. Another option is to do all work on cloud/ collaborative software. 
 
-All code should be stored on GitHub in repositories affiliated with the lab [GitHub organization](https://github.com/tribblelab/). Code shoudl be documented and readable, as this will serve your future self and others who attempt to use your code. Coming soon: **code documentation SOP**. 
+All code should be stored on GitHub in repositories affiliated with the lab [GitHub organization](https://github.com/tribblelab/). Code should be documented and readable, as this will serve your future self and others who attempt to use your code. Coming soon: **code documentation SOP**. 
 
 The person who generates the data/ code is responsible for storing it on the lab server/ GitHub and sufficiently documenting it for future users. We recommend that you set up data management and documentation practices as you are collecting the data, instead of at the end. 
 
