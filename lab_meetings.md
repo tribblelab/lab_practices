@@ -42,7 +42,7 @@ Snacks: Hayden
 *** _No meeting November 26 - Thanksgiving_ ***
 
 ### December 3, 2026
-Agenda: ??? Mutiny ?? (Carrie & Lauren out of town)
+Agenda: Makoa leads paper discussion (Carrie & Lauren out of town)
 
 Snacks: Makoa
 
