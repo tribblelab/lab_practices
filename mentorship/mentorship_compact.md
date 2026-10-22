@@ -87,7 +87,7 @@ Outside of regular meetings, the PI recommends the following for in-person commu
 The lab uses Slack and email to communicate. See the [lab software guide](../computation/software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). Contact info can be found [here](https://github.com/tribblelab/internal/blob/main/contact_info.md), only available for members part of the lab GitHub organization.
 
 ### Lab Data
-Lab data are stored on a network-attached storage (NAS) device (the lab server) which lives in the computational workroom. All lab members have access to the drive remotely, though off-campus or off-network access must be via a VPN. The lab server has protection against disc failure and is backed up to the cloud for off-site security. 
+Lab data are stored on a network-attached storage (NAS) device (the lab server) which lives in the computational workroom. Lab members who need NAS access may access the drive remotely, though off-campus or off-network access must be via a VPN. The lab server has protection against disc failure and is backed up to the cloud for off-site security. 
 
 All lab members conducting research in the lab should ensure that any work is backed up (drafts of writing, figures, etc.) even if that work doesn't live on the lab server. One option to set up a backup system for your whole computer, via a cloud service or an external hard drive. Another option is to do all work on cloud/ collaborative software. 
 
