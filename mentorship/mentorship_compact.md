@@ -82,7 +82,7 @@ Outside of regular meetings, the PI recommends the following for in-person commu
   - If office door is almost closed but not latched: feel free to knock and ask a quick question (but longer conversations may need to be scheduled)
   - If office door is totally closed and latched: PI is either not in the office, in a meeting, or needs to focus.
   - If there is an emergency^* do whatever you need to do to get ahold of the PI (knock on a closed/ latched door, call cell phone, etc.) 
-^* Emergencies include you or anyone you know experiencing a mental health crises, any type of physical injury or emergency, fires, freezers failing, etc.
+^* Emergencies include you or anyone you know experiencing a mental health crises, the presence of ICE/ immigration officials/ other law enforcement in or near lab spaces, any type of physical injury or emergency, fires, freezers failing, etc.
 
 The lab uses Slack and email to communicate. See the [lab software guide](../computation/software_guide.md) for more. There is a [lab listserv](mailto:tribble_lab@uw.edu). Slack is great for day-to-day communication, but emails are best for bigger requests (letters of recommendation, feedback on papers, etc.). Everyone should have the PI's cell number for emergencies (and social events). Contact info can be found [here](https://github.com/tribblelab/internal/blob/main/contact_info.md), only available for members part of the lab GitHub organization.
 
