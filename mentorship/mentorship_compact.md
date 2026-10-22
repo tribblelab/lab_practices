@@ -70,9 +70,10 @@ The lab meeting agenda lives on [GitHub](../lab_meetings.md). The agenda is set 
 All lab social events are optional, but at least occasional participation is encouraged. If long-term lab members stop attending any social events, the PI may take this as a red flag about lab dynamics and initiate a conversation. Lab social events are planned by the lab social committee (committee members volunteer at the beginning of the academic year) and the the PI. The social committee will plan a diversity of activities. No activities will be oriented around alcohol consumption, but alcohol may be an option at some events. The PI will cover some meals as part of social activities. All social event announcements will be explicit about any costs for attending. 
 
 ### Communication and individual meetings 
-All lab members are expected to meet weekly or biweekly with their mentor. These meetings should be scheduled a set time at the beginning of each quarter. In the case of undergraduate students working with a mentor who is not the PI (*e.g.* a graduate student, postdoc, etc.), the student should meet once with the PI when getting started, and then as needed moving forward. 
+All lab members are expected to meet weekly or biweekly with their mentor. These meetings should be scheduled a set time at the beginning of each quarter. In the case of undergraduate students working with a mentor who is not the PI (*e.g.* a graduate student, postdoc, etc.), the student should meet once with the PI when getting started, and then as needed moving forward.
+Meetings will be one-on-one by default, but a mentor may hold group meetings with multiple mentees who are working closely together on one project. 
 For individual meetings with the PI, the mentee should give the PI a heads up via Slack or email 2--3 days prior to meeting with any big-picture agenda items. This is particularly important for anything the PI should give some thought to before the meeting (_i.e._ existential research crises, "what is the future of academia", etc.). This is not necessary for most meetings topics, only the big, unusual ones.
-The mentee should set the topic of the meeting and let the mentor know at least 48 hours in advance, or a week in advance for more intensive conversations (*e.g.* reviewing drafts). The mentor should take notes during the meetings and ensure those notes are shared with the mentee. Google Docs is a good option for this. 
+For any meeting beyond the scope of standard one-on-one meetings, the mentee should set the topic of the meeting and let the mentor know at least 48 hours in advance, or a week in advance for more intensive conversations (*e.g.* reviewing drafts). The mentor should take notes during the meetings and ensure those notes are shared with the mentee. Google Docs is a good option for this. 
 If you need to reschedule a meeting, you can propose a new time using the Google calendar event, adding a note with an explanation and your general availability, or via my Calendly app (link in our internal repo).
 
 One-off meetings with the PI can be scheduled using Calendly. Contact the PI for the link to this app.
@@ -105,7 +106,7 @@ Mentees should inform their mentors if they will miss an expected event (*e.g.* 
 Vacation time expectation: 
 - Employees: specified in employment/ benefits offer
 - Grad students: should be working over academic breaks, but not on UW holidays. Vacations are acceptable, within the bounds of time that allows you to meet your academic and professional goals. Working from another location during academic breaks may be acceptable, but should be discussed with the PI beforehand.
-- There will not be scheduled lab or individual meetings during academic breaks. 
+- There will not lab meetings or (required) individual meetings during academic breaks. 
 - PhD students should communicate with the PI above what summers will look like (may include conference travel, fieldwork, etc.) 
 - Mentors (including PI) should communicate any non-holiday absences to their mentees (or the whole lab). 
 
