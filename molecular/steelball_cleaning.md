@@ -15,7 +15,6 @@ For cleanup/decontamination of steel beads used for grinding plant material in C
 1)	After grinding, remove beads from tube and put into fishnet (found on the side of the fume hood).
 2)	Wet beads with Alconox solution and scrub by rolling between fingers while still in the fishnet. Scrub for ca. 3-4 minutes.
 3)	Place beads into a beaker with 10% bleach solution. Allow beads to soak for ca. 30 minutes.
-4)	Remove bleach and add tap water to beaker. Soak beads for an equal amount of time that they were in the bleach.
-5)	Remove tap water and add deionized water to beaker. Soak beads for an equal amount of time that they were in the bleach.
-6)	Put beads onto either Kim-wipe or paper towel to remove excess water.
-7)	Put beads into “cleaned but not autoclaved” bead container.
+4)	Remove bleach and add RO water to beaker. Soak beads for an equal amount of time that they were in the bleach.
+5)	Put beads onto either Kim-wipe or paper towel to remove excess water or let dry in weigh boat.
+6)	Put beads into “cleaned but not autoclaved” bead container.
