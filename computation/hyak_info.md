@@ -1,13 +1,13 @@
 # Info for shared computational resources on HYAK
 
-## Software install
+## Shared group software install / usage
 
 ### CAPTUS
 
 [CAPTUS](https://github.com/edgardomortiz/captus) is a pipeline for assembling high-throughput sequencing reads.
 
 #### install 
-to be done ONCE:
+to be done ONCE: (already done by lauren 2026-08-18)
 ```{bash}
 salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
 module load conda
@@ -43,6 +43,60 @@ or, in a script submitted via slurm, just add these lines:
 ```{bash}
 module load conda
 conda activate /gscratch/tribblelab/conda/captus
+```
+
+### GetOrganelle
+
+[GetOrganelle](https://github.com/kinggerm/getorganelle) is a pipeline for assembling organellar genomes (plastomes).
+
+#### install 
+
+to be done ONCE: (already done by lauren 2026-11-18)
+```{bash}
+# Create the shared env. conda-forge goes first so libsqlite etc. resolve.
+conda create --prefix /gscratch/tribblelab/conda/getorganelle \
+  --override-channels --strict-channel-priority \
+  -c conda-forge -c bioconda \
+  getorganelle
+
+# Download the seed/label databases once, into a shared location (see note below)
+mkdir -p /gscratch/tribblelab/conda/getorganelle_db
+conda activate /gscratch/tribblelab/conda/getorganelle
+export GETORG_PATH=/gscratch/tribblelab/conda/getorganelle_db
+get_organelle_config.py --add embplant_pt,embplant_mt,embplant_nr
+
+# Make everything readable and executable by the group
+chmod -R g+rX /gscratch/tribblelab/conda/getorganelle \
+              /gscratch/tribblelab/conda/getorganelle_db
+
+# Export a reproducible spec
+conda env export --prefix /gscratch/tribblelab/conda/getorganelle --no-builds \
+  > /gscratch/tribblelab/conda/getorganelle_environment.yml
+```
+
+#### usage
+
+if you haven't set up CAPTUS for your account, follow the same instructions as above to add
+`/gscratch/tribblelab/conda` to your $PATH:
+
+1. `nano ~/.condarc`
+2. add lines
+```
+pkgs_dirs:
+  - /gscratch/tribblelab/conda
+```
+
+hereafter, to load in the `getorganelle` conda env *interactively*:
+```{bash}
+salloc --partition=cpu-g2 --cpus-per-task=1 --mem=10G --time=2:00:00
+module load conda
+conda activate /gscratch/tribblelab/conda/getorganelle
+```
+
+or, in a script submitted via slurm, just add these lines:
+```{bash}
+module load conda
+conda activate /gscratch/tribblelab/conda/getorganelle
 ```
 
 ## Storage on HYAK
